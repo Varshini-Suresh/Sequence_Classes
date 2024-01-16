@@ -1,4 +1,4 @@
-CONTENTS
+> **CONTENTS**
 
 This directory consists of: 
 
